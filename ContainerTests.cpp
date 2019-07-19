@@ -1,4 +1,3 @@
-﻿#include "pch.h"
 #include <iostream>
 using namespace std;
 const long ASIZE = 250000;
